@@ -1,6 +1,12 @@
 @import "Bootstrap";
 
-
+.jumbotron {
+	background-image: url('TNlogo.gif');
+	h1, h2{
+	  text-align: center;
+	  font-family: guardian-egyptt, geoorgia, serif;
+	}
+}
 
 .navbar-default {
 	background-color: #EFEFEB;
